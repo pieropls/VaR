@@ -54,7 +54,7 @@ $$
 VaR = -\text{Percentile}(\Delta P, (1-\alpha) \times 100)
 $$
 
-📄 Notebook: [`1.VaR.Montecarlo.ipynb`](3.VaR.Historical.ipynb)
+📄 Notebook: [`1.VaR.Montecarlo.ipynb`](1.VaR.Montecarlo.ipynb)
 
 ## **📈 2. Parametric Method (Variance-Covariance)**
 🔹 **Description:**  
