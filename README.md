@@ -1,4 +1,4 @@
-# **📊 Value at Risk (VaR) in Python**
+# **📉 Value at Risk (VaR) in Python**
 
 ## **📌 Overview**
 This repository demonstrates three methods for estimating **Value at Risk (VaR)**, a key risk management metric used to quantify potential losses in a portfolio. Here are the **methods implemented 🛠**:
@@ -9,7 +9,7 @@ This repository demonstrates three methods for estimating **Value at Risk (VaR)*
 
 Each method is **explained mathematically** and **implemented in Python** with clear visualizations.
 
-## **📉 What is Value at Risk (VaR)?**
+## **📊 What is Value at Risk (VaR)?**
 **Value at Risk (VaR)** measures the **potential loss** in a portfolio over a given time period at a specified confidence level. It answers the fundamental risk management question:
 
 > *"What is the maximum expected loss over a given time horizon with a certain probability?"*
