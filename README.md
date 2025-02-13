@@ -83,7 +83,7 @@ Unlike the other methods, the **historical approach does not assume any distribu
 Given a series of historical returns $X$, VaR is defined as:
 
 $$
-VaR = -\text{Percentile}(X, 100 \times (1-\alpha))
+VaR = -\text{Percentile}(X, 100 \times (1-\alpha)) \times \text{Portfolio Value}
 $$
 
 This method is **simple and intuitive**, but its accuracy depends on the assumption that **historical returns are representative of future risks**.
